@@ -1,0 +1,16 @@
+C:\Users\usuario\Documents\dotnet\Linq-Alumnos\bin\Debug\net5.0\Linq-Alumnos.exe
+C:\Users\usuario\Documents\dotnet\Linq-Alumnos\bin\Debug\net5.0\Linq-Alumnos.deps.json
+C:\Users\usuario\Documents\dotnet\Linq-Alumnos\bin\Debug\net5.0\Linq-Alumnos.runtimeconfig.json
+C:\Users\usuario\Documents\dotnet\Linq-Alumnos\bin\Debug\net5.0\Linq-Alumnos.runtimeconfig.dev.json
+C:\Users\usuario\Documents\dotnet\Linq-Alumnos\bin\Debug\net5.0\Linq-Alumnos.dll
+C:\Users\usuario\Documents\dotnet\Linq-Alumnos\bin\Debug\net5.0\ref\Linq-Alumnos.dll
+C:\Users\usuario\Documents\dotnet\Linq-Alumnos\bin\Debug\net5.0\Linq-Alumnos.pdb
+C:\Users\usuario\Documents\dotnet\Linq-Alumnos\obj\Debug\net5.0\Linq-Alumnos.csproj.AssemblyReference.cache
+C:\Users\usuario\Documents\dotnet\Linq-Alumnos\obj\Debug\net5.0\Linq-Alumnos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Documents\dotnet\Linq-Alumnos\obj\Debug\net5.0\Linq-Alumnos.AssemblyInfoInputs.cache
+C:\Users\usuario\Documents\dotnet\Linq-Alumnos\obj\Debug\net5.0\Linq-Alumnos.AssemblyInfo.cs
+C:\Users\usuario\Documents\dotnet\Linq-Alumnos\obj\Debug\net5.0\Linq-Alumnos.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\dotnet\Linq-Alumnos\obj\Debug\net5.0\Linq-Alumnos.dll
+C:\Users\usuario\Documents\dotnet\Linq-Alumnos\obj\Debug\net5.0\ref\Linq-Alumnos.dll
+C:\Users\usuario\Documents\dotnet\Linq-Alumnos\obj\Debug\net5.0\Linq-Alumnos.pdb
+C:\Users\usuario\Documents\dotnet\Linq-Alumnos\obj\Debug\net5.0\Linq-Alumnos.genruntimeconfig.cache
